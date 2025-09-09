@@ -107,7 +107,7 @@ section a:hover {
 
 .card {
     /*background: #fff;*/
-    background: ##eebbc3; /* Pretty pink/coral color for cards */
+    background: #eebbc3; /* Pretty pink/coral color for cards */
     box-shadow: 0 2px 8px rgba(42, 42, 122, 0.1);
     border-radius: 10px;
     padding: 20px;
